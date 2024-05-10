@@ -97,5 +97,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 897d01f8c5f64833805217cd3847d69a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateSpeed: 100
+  rotateMinSpeed: 20
+  rotateMaxSpeed: 200
   srCube: {fileID: 4782367725910620370}
